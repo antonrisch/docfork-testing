@@ -1,5 +1,11 @@
-# docfork-testing
+# how to use react, which is sorta cool!
 
-```python
-print("Hello world!)
+```tsx
+import React from 'react';
+
+const App = () => {
+  return <div>Viva Las Vegas</div>;
+};
+
+export default App;
 ```
